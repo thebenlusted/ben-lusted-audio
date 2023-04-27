@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500;700&display=swap');
+
+
+html {
+
+}
+body {
+    margin:0;
+}
+
+nav {
+    padding:16px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+nav .options a {
+    display:block;
+    text-decoration: none;
+    font-size:18px;
+    margin:20px 0;
+}
+
+nav .logo {
+    text-align: center;
+    font-size:26px;
+}
+
+nav .socials {
+    text-align: right;
+    margin: auto 0;
+}
+nav .socials a {
+    text-decoration: none;
+    margin-right:8px;
+}
+nav .socials i {
+    
+}
