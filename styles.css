@@ -89,6 +89,7 @@ footer .footer-logo {
 }
 footer .footer-logo img {
   width: 30px;
+  height: auto;
 }
 
 @media only screen and (max-width: 920px) {
